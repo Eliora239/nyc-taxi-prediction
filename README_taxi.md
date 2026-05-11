@@ -1,4 +1,4 @@
-# 🚕 NYC Taxi Fare Prediction
+#  NYC Taxi Fare Prediction
 
 Prédiction du tarif d'une course de taxi à New York à partir de données GPS et temporelles.
 
